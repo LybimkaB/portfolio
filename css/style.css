@@ -391,6 +391,7 @@ html {
   grid-template-columns: repeat(3, 508px);
   row-gap: 42px;
   column-gap: 42px;
+  justify-content: center;
 }
 
 .service-title,
